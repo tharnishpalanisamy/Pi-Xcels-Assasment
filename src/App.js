@@ -1,6 +1,6 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
-import ListMovies from '../ListMovies';
+import ListMovies from './ListMovies';
 import MovieDetails from './MovieDetails';
 import './App.css';
 
