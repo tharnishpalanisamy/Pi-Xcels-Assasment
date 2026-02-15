@@ -32,6 +32,3 @@ Returns list of movies
 GET /api/movies/:id  
 Returns details of a single movie
 
-## How to Run Locally
-
-1. Install dependencies:
